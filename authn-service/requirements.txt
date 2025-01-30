@@ -4,6 +4,7 @@ chardet==3.0.4
 click==7.1.2
 cryptography==2.6.1
 django==2.1.0
+django-two-factor-auth==1.11
 entrypoints==0.3
 Flask==1.1.2
 Flask-Cors==3.0.8
